@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR6u0025/T/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6u0025_T_001-1405a04, ed: T, 'n': 1405a04}
+  - {type: line-break, offset: 0, content: '', id: KR6u0025_T_001-1405a05, ed: T, 'n': 1405a05}
+  - {type: xml-element, offset: 0, content: '', id: pT85p1405a0501, name: p, role: open, attrs: {'xml:id': pT85p1405a0501}}
+  - {type: punctuation, offset: 11, content: 。, id: KR6u0025_T_001-bkkpn1}
+  - {type: line-break, offset: 17, content: '', id: KR6u0025_T_001-1405a06, ed: T, 'n': 1405a06}
+  - {type: punctuation, offset: 18, content: 。, id: KR6u0025_T_001-bkkpn2}
+  - {type: punctuation, offset: 27, content: 。, id: KR6u0025_T_001-bkkpn3}
+  - {type: punctuation, offset: 34, content: 。, id: KR6u0025_T_001-bkkpn4}
+  - {type: line-break, offset: 34, content: '', id: KR6u0025_T_001-1405a07, ed: T, 'n': 1405a07}
+  - {type: punctuation, offset: 39, content: 。, id: KR6u0025_T_001-bkkpn5}
+  - {type: punctuation, offset: 46, content: 。, id: KR6u0025_T_001-bkkpn6}
+  - {type: line-break, offset: 51, content: '', id: KR6u0025_T_001-1405a08, ed: T, 'n': 1405a08}
+  - {type: punctuation, offset: 54, content: 。, id: KR6u0025_T_001-bkkpn7}
+  - {type: line-break, offset: 68, content: '', id: KR6u0025_T_001-1405a09, ed: T, 'n': 1405a09}
+  - {type: punctuation, offset: 73, content: 。, id: KR6u0025_T_001-bkkpn8}
+  - {type: punctuation, offset: 82, content: 。, id: KR6u0025_T_001-bkkpn9}
+  - {type: line-break, offset: 85, content: '', id: KR6u0025_T_001-1405a10, ed: T, 'n': 1405a10}
+  - {type: punctuation, offset: 91, content: 。, id: KR6u0025_T_001-bkkpn10}
+  - {type: variant, offset: 94, length: 1, content: 諸, 大: 智}
+  - {type: punctuation, offset: 96, content: 。, id: KR6u0025_T_001-bkkpn11}
+  - {type: punctuation, offset: 101, content: 。, id: KR6u0025_T_001-bkkpn12}
+  - {type: line-break, offset: 101, content: '', id: KR6u0025_T_001-1405a11, ed: T, 'n': 1405a11}
+  - {type: punctuation, offset: 111, content: 。, id: KR6u0025_T_001-bkkpn13}
+  - {type: line-break, offset: 118, content: '', id: KR6u0025_T_001-1405a12, ed: T, 'n': 1405a12}
+  - {type: indent, offset: 118, content: 　, id: KR6u0025_T_001-bkkind1}
+  - {type: indent, offset: 125, content: 　, id: KR6u0025_T_001-bkkind2}
+  - {type: indent, offset: 132, content: 　, id: KR6u0025_T_001-bkkind3}
+  - {type: line-break, offset: 133, content: '', id: KR6u0025_T_001-1405a13, ed: T, 'n': 1405a13}
+  - {type: variant, offset: 138, length: 1, content: 丘, 大: 兵}
+  - {type: indent, offset: 139, content: 　, id: KR6u0025_T_001-bkkind4}
+  - {type: indent, offset: 146, content: 　, id: KR6u0025_T_001-bkkind5}
+  - {type: line-break, offset: 148, content: '', id: KR6u0025_T_001-1405a14, ed: T, 'n': 1405a14}
+  - {type: indent, offset: 153, content: 　, id: KR6u0025_T_001-bkkind6}
+  - {type: indent, offset: 160, content: 　, id: KR6u0025_T_001-bkkind7}
+  - {type: line-break, offset: 164, content: '', id: KR6u0025_T_001-1405a15, ed: T, 'n': 1405a15}
+  - {type: indent, offset: 167, content: 　, id: KR6u0025_T_001-bkkind8}
+  - {type: indent, offset: 174, content: 　, id: KR6u0025_T_001-bkkind9}
+  - {type: line-break, offset: 180, content: '', id: KR6u0025_T_001-1405a16, ed: T, 'n': 1405a16}
+  - {type: indent, offset: 181, content: 　, id: KR6u0025_T_001-bkkind10}
+  - {type: indent, offset: 188, content: 　, id: KR6u0025_T_001-bkkind11}
+  - {type: line-break, offset: 195, content: '', id: KR6u0025_T_001-1405a17, ed: T, 'n': 1405a17}
+  - {type: indent, offset: 195, content: 　, id: KR6u0025_T_001-bkkind12}
+  - {type: indent, offset: 202, content: 　, id: KR6u0025_T_001-bkkind13}
+  - {type: indent, offset: 209, content: 　, id: KR6u0025_T_001-bkkind14}
+  - {type: line-break, offset: 211, content: '', id: KR6u0025_T_001-1405a18, ed: T, 'n': 1405a18}
+  - {type: indent, offset: 216, content: 　, id: KR6u0025_T_001-bkkind15}
+  - {type: punctuation, offset: 223, content: 。, id: KR6u0025_T_001-bkkpn14}
+  - {type: xml-element, offset: 223, content: '', id: pT85p1405a0501_end, name: p, role: close, attrs: {'xml:id': pT85p1405a0501}}
+  - {type: line-break, offset: 223, content: '', id: KR6u0025_T_001-1405a19, ed: T, 'n': 1405a19}
+  back: []
+hash: sha256:ff5303c359e410da67aa5ed972423356b9f7167f89acf8f422e3b008ffa839d1

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6u0025/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0025/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續命經
+  identifiers:
+    krp: KR6u0025
+    cbeta: T85n2889
+    cbeta_old_id: T85n2889
+    authorityid: CA0003649
+    json_key: T2889
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2889.xml
+    old_id: T85n2889
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0025_000-T.yaml, hash: 'sha256:b2dba3ac62e6b10612ea69d7a273a6a9f051d052bcc0982624d46946dadffa63'}
+  - {seq: 1, filename: KR6u0025_001-T.yaml, hash: 'sha256:391d71311f79875820d10e925291a11134f31b431be6d734f429796494def956'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0025_000-T.markers.yaml, hash: 'sha256:7b9710a7a7766f6bc5a462fc02dcf83d8d6072b8bbc3ffd55be84329687895bd'}
+  - {seq: 1, role: markers, filename: assets/KR6u0025_001-T.markers.yaml, hash: 'sha256:ff5303c359e410da67aa5ed972423356b9f7167f89acf8f422e3b008ffa839d1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0025_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 223
+  label: 佛說續命經
+  type: juan
+  level: 1
+hash: sha256:89f3bc67051f758bdd761f52a601082dcbe93e76d7780a1e84c9f6ffb37b9669
