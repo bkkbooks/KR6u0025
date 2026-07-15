@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0025/v1
 canonical_location: https://kanripo.org/bkk/KR6u0025/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 續命經
   identifiers:
@@ -21,10 +21,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0025_000.yaml, hash: 'sha256:b2dba3ac62e6b10612ea69d7a273a6a9f051d052bcc0982624d46946dadffa63'}
-  - {seq: 1, filename: KR6u0025_001.yaml, hash: 'sha256:391d71311f79875820d10e925291a11134f31b431be6d734f429796494def956'}
+  - {seq: 1, filename: KR6u0025_001.yaml, hash: 'sha256:eb959111222d8a249399a7203aa607dff701e22871ab3010259e1dccabb2d18f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0025_000.markers.yaml, hash: 'sha256:b82f048b638785a5f92f22c4e8912b6da9eb0ba4dfd0416deb2374f0a309567e'}
-  - {seq: 1, role: markers, filename: assets/KR6u0025_001.markers.yaml, hash: 'sha256:6cd398aa8413780f8ea951b44e556df3ad717b7868efce64b94278d58a78ba25'}
+  - {seq: 1, role: markers, filename: assets/KR6u0025_001.markers.yaml, hash: 'sha256:2037740193c49fa30d922c932778371d8e0ffea1ac52087f590e7fb873eb574c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,4 +36,7 @@ table_of_contents:
   label: 佛說續命經
   type: juan
   level: 1
-hash: sha256:7ee4880fd7004f40cbcee6ed54053c990dc1228d8a5c8923300e5f17c62c697d
+hash: sha256:e199495f160d91c4a06d52dc299ea2c46f100418fdd58571f2b6440f3d590bd3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
